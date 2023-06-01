@@ -1,7 +1,6 @@
-a = 10
-b = 3
-c = a + b
-d = a - b
-
-print(c)
-print(d)
+a = [1, 2, 3, 4, 5]
+b = "Hello, world!"
+print(3 in a)
+print(6 in a)
+print("o" in b)
+print("h" not in b)
